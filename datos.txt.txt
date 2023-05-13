@@ -1,0 +1,16 @@
+Entrega del Recuperatorio del segundo parcial de Programacion III y Clientes Web Mobile
+
+Carrera: Diseño y Desarrollo Web
+Materia: Programacion III y Clientes web Mobile
+Cuatrimestre: 4to
+Año: Segundo año (2021)
+Turno: Mañana
+Comisión: A
+Nombre: Ricardo
+Apellido: Vitali
+Docente: Santiago Gallino
+Caracter de entrega: Final Programacion III 
+DNI: 42340022
+Fecha de Nacimiento: 28/1/2000
+
+Para ejecutar el sitio un debe pararse en la carpeta front-end y luego utilizar el comando npm run serve
